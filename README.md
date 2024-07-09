@@ -1,1 +1,0 @@
-It is a dynamic weather website using HTML, CSS, JavaScript, and a weather API. This application allows users to check real-time weather conditions for any location globally. It features a clean, user-friendly interface that displays current temperature, humidity, wind speed, and weather conditions
